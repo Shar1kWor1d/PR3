@@ -1,0 +1,17 @@
+C:\Users\323\Desktop\PR3\bin\Debug\PR3.exe.config
+C:\Users\323\Desktop\PR3\bin\Debug\PR3.exe
+C:\Users\323\Desktop\PR3\bin\Debug\PR3.pdb
+C:\Users\323\Desktop\PR3\bin\Debug\EntityFramework.dll
+C:\Users\323\Desktop\PR3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\323\Desktop\PR3\bin\Debug\EntityFramework.xml
+C:\Users\323\Desktop\PR3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\323\Desktop\PR3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.Properties.Resources.resources
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.csproj.CopyComplete
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.exe
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.pdb
+C:\Users\323\Desktop\PR3\obj\Debug\PR3.Form1.resources
